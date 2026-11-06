@@ -16,8 +16,8 @@ A **v2** (A18 etapas 1–8) está implementada: schema/validação, classificado
 flat/router, plano/journal, `fileops`, ignore, cliente nativo do Julia-1, CLI
 completa, GUI com settings e eval. O smoke test real do Julia-1 foi feito em
 Python 3.12 (load + inferência + eval). O classificador **não abstém** (A19):
-todo arquivo recebe a pasta mais provável. O gold sintético tem 400 casos e o
-local, 50 arquivos reais rotulados (`evals/local.jsonl`, fora do git). Contrato
+todo arquivo recebe a pasta mais provável. O gold sintético tem 350 casos e o
+local, 46 arquivos reais rotulados (`evals/local.jsonl`, fora do git). Contrato
 em [docs/decisions.md](docs/decisions.md) (A1–A20).
 
 ## Uso
@@ -51,10 +51,3 @@ Falhas de permissão mostram `sudo fsort apply --plan N`. Planos ficam em
 `~/.local/state/fsort/plans/`; config em `~/.config/fsort/config.toml`.
 Detalhes e limites em [docs/decisions.md](docs/decisions.md) e vocabulário em
 [GLOSSARY.md](GLOSSARY.md).
-
-## Licença
-
-Apache-2.0 — veja [LICENSE](LICENSE) e [NOTICE](NOTICE) para atribuições de
-terceiros. Os modelos Julia-1 e Florence-2-base são baixados em runtime e
-não são redistribuídos aqui; cada um mantém sua licença original
-(Apache-2.0 e MIT, respectivamente).

@@ -56,9 +56,12 @@ Formato do schema (exemplo do autor, normalizado em
   eval e packaging.
 - Smoke test real **feito** em Python 3.12 com o runtime `julia` e os pesos
   (load + inferência + eval sintético). O eval está rodando com dados reais:
-  `evals/local.jsonl` tem 50 arquivos do usuário rotulados; baseline de
-  2026-10-31 sem abstenção (A19) é 95,0% sintético e 60,0% local. Falta
-  calibrar prompts, visão de imagens e limpeza do resumo de PDF para chegar às
+  `evals/local.jsonl` tem 46 arquivos do usuário rotulados; baseline de
+  2026-11-06 sem abstenção (A19), no schema de 7 destinos (sem memes), é
+  83,4% sintético e 60,9% local — não comparável 1:1 com a rodada de
+  2026-10-31 (a remoção de memes altera o conjunto de opções do prompt).
+  Falta calibrar os prompts de `contas`/`comprovantes`, visão de imagens e
+  limpeza do resumo de PDF para chegar às
   metas de 90%/70%. Contrato em [docs/decisions.md](docs/decisions.md)
   (A1–A20, ordem A18).
 

@@ -69,22 +69,6 @@ TARGETS: dict[str, tuple[str, str, list[str]]] = {
             "Foto de trilha na natureza",
         ],
     ),
-    "fotos/memes": (
-        "imagem",
-        "meme-{n}.png",
-        [
-            "Meme de gato com legenda engraçada",
-            "Reaction image de risada",
-            "Figurinha de WhatsApp de anime",
-            "Meme de segunda-feira",
-            "Reaction image de choque",
-            "Meme de programador",
-            "Figurinha animada de meme",
-            "Meme de política com texto",
-            "Reaction image de deboche",
-            "Meme antigo de fórum",
-        ],
-    ),
     "planilhas": (
         "planilha",
         "planilha-{n}.xlsx",
