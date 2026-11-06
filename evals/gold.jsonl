@@ -1,0 +1,400 @@
+{"state": {"arquivo": "conta-1.pdf", "tipo": "pdf", "resumo": "Conta de luz de janeiro"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-2.pdf", "tipo": "pdf", "resumo": "Conta de água do mês"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-3.pdf", "tipo": "pdf", "resumo": "Fatura da internet residencial"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-4.pdf", "tipo": "pdf", "resumo": "Conta de telefone celular"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-5.pdf", "tipo": "pdf", "resumo": "Fatura do cartão de crédito"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-6.pdf", "tipo": "pdf", "resumo": "Conta de gás encanado"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-7.pdf", "tipo": "pdf", "resumo": "Boleto da assinatura de streaming"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-8.pdf", "tipo": "pdf", "resumo": "Fatura do plano de saúde"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-9.pdf", "tipo": "pdf", "resumo": "Conta de condomínio"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-10.pdf", "tipo": "pdf", "resumo": "Fatura de energia elétrica"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-11.pdf", "tipo": "pdf", "resumo": "Conta de luz de janeiro (2)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-12.pdf", "tipo": "pdf", "resumo": "Conta de água do mês (2)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-13.pdf", "tipo": "pdf", "resumo": "Fatura da internet residencial (2)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-14.pdf", "tipo": "pdf", "resumo": "Conta de telefone celular (2)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-15.pdf", "tipo": "pdf", "resumo": "Fatura do cartão de crédito (2)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-16.pdf", "tipo": "pdf", "resumo": "Conta de gás encanado (2)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-17.pdf", "tipo": "pdf", "resumo": "Boleto da assinatura de streaming (2)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-18.pdf", "tipo": "pdf", "resumo": "Fatura do plano de saúde (2)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-19.pdf", "tipo": "pdf", "resumo": "Conta de condomínio (2)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-20.pdf", "tipo": "pdf", "resumo": "Fatura de energia elétrica (2)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-21.pdf", "tipo": "pdf", "resumo": "Conta de luz de janeiro (3)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-22.pdf", "tipo": "pdf", "resumo": "Conta de água do mês (3)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-23.pdf", "tipo": "pdf", "resumo": "Fatura da internet residencial (3)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-24.pdf", "tipo": "pdf", "resumo": "Conta de telefone celular (3)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-25.pdf", "tipo": "pdf", "resumo": "Fatura do cartão de crédito (3)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-26.pdf", "tipo": "pdf", "resumo": "Conta de gás encanado (3)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-27.pdf", "tipo": "pdf", "resumo": "Boleto da assinatura de streaming (3)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-28.pdf", "tipo": "pdf", "resumo": "Fatura do plano de saúde (3)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-29.pdf", "tipo": "pdf", "resumo": "Conta de condomínio (3)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-30.pdf", "tipo": "pdf", "resumo": "Fatura de energia elétrica (3)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-31.pdf", "tipo": "pdf", "resumo": "Conta de luz de janeiro (4)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-32.pdf", "tipo": "pdf", "resumo": "Conta de água do mês (4)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-33.pdf", "tipo": "pdf", "resumo": "Fatura da internet residencial (4)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-34.pdf", "tipo": "pdf", "resumo": "Conta de telefone celular (4)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-35.pdf", "tipo": "pdf", "resumo": "Fatura do cartão de crédito (4)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-36.pdf", "tipo": "pdf", "resumo": "Conta de gás encanado (4)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-37.pdf", "tipo": "pdf", "resumo": "Boleto da assinatura de streaming (4)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-38.pdf", "tipo": "pdf", "resumo": "Fatura do plano de saúde (4)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-39.pdf", "tipo": "pdf", "resumo": "Conta de condomínio (4)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-40.pdf", "tipo": "pdf", "resumo": "Fatura de energia elétrica (4)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-41.pdf", "tipo": "pdf", "resumo": "Conta de luz de janeiro (5)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-42.pdf", "tipo": "pdf", "resumo": "Conta de água do mês (5)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-43.pdf", "tipo": "pdf", "resumo": "Fatura da internet residencial (5)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-44.pdf", "tipo": "pdf", "resumo": "Conta de telefone celular (5)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-45.pdf", "tipo": "pdf", "resumo": "Fatura do cartão de crédito (5)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-46.pdf", "tipo": "pdf", "resumo": "Conta de gás encanado (5)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-47.pdf", "tipo": "pdf", "resumo": "Boleto da assinatura de streaming (5)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-48.pdf", "tipo": "pdf", "resumo": "Fatura do plano de saúde (5)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-49.pdf", "tipo": "pdf", "resumo": "Conta de condomínio (5)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "conta-50.pdf", "tipo": "pdf", "resumo": "Fatura de energia elétrica (5)"}, "target": "contas", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-1.pdf", "tipo": "pdf", "resumo": "Comprovante de PIX enviado"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-2.pdf", "tipo": "pdf", "resumo": "Recibo de aluguel pago"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-3.pdf", "tipo": "pdf", "resumo": "Transferência bancária realizada"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-4.pdf", "tipo": "pdf", "resumo": "Comprovante de pagamento de boleto"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-5.pdf", "tipo": "pdf", "resumo": "Recibo de compra no cartão"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-6.pdf", "tipo": "pdf", "resumo": "Comprovante de depósito em conta"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-7.pdf", "tipo": "pdf", "resumo": "Comprovante de TED"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-8.pdf", "tipo": "pdf", "resumo": "Recibo de pagamento de serviço"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-9.pdf", "tipo": "pdf", "resumo": "Comprovante de estorno"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-10.pdf", "tipo": "pdf", "resumo": "Recibo de mensalidade"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-11.pdf", "tipo": "pdf", "resumo": "Comprovante de PIX enviado (2)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-12.pdf", "tipo": "pdf", "resumo": "Recibo de aluguel pago (2)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-13.pdf", "tipo": "pdf", "resumo": "Transferência bancária realizada (2)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-14.pdf", "tipo": "pdf", "resumo": "Comprovante de pagamento de boleto (2)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-15.pdf", "tipo": "pdf", "resumo": "Recibo de compra no cartão (2)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-16.pdf", "tipo": "pdf", "resumo": "Comprovante de depósito em conta (2)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-17.pdf", "tipo": "pdf", "resumo": "Comprovante de TED (2)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-18.pdf", "tipo": "pdf", "resumo": "Recibo de pagamento de serviço (2)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-19.pdf", "tipo": "pdf", "resumo": "Comprovante de estorno (2)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-20.pdf", "tipo": "pdf", "resumo": "Recibo de mensalidade (2)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-21.pdf", "tipo": "pdf", "resumo": "Comprovante de PIX enviado (3)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-22.pdf", "tipo": "pdf", "resumo": "Recibo de aluguel pago (3)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-23.pdf", "tipo": "pdf", "resumo": "Transferência bancária realizada (3)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-24.pdf", "tipo": "pdf", "resumo": "Comprovante de pagamento de boleto (3)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-25.pdf", "tipo": "pdf", "resumo": "Recibo de compra no cartão (3)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-26.pdf", "tipo": "pdf", "resumo": "Comprovante de depósito em conta (3)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-27.pdf", "tipo": "pdf", "resumo": "Comprovante de TED (3)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-28.pdf", "tipo": "pdf", "resumo": "Recibo de pagamento de serviço (3)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-29.pdf", "tipo": "pdf", "resumo": "Comprovante de estorno (3)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-30.pdf", "tipo": "pdf", "resumo": "Recibo de mensalidade (3)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-31.pdf", "tipo": "pdf", "resumo": "Comprovante de PIX enviado (4)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-32.pdf", "tipo": "pdf", "resumo": "Recibo de aluguel pago (4)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-33.pdf", "tipo": "pdf", "resumo": "Transferência bancária realizada (4)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-34.pdf", "tipo": "pdf", "resumo": "Comprovante de pagamento de boleto (4)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-35.pdf", "tipo": "pdf", "resumo": "Recibo de compra no cartão (4)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-36.pdf", "tipo": "pdf", "resumo": "Comprovante de depósito em conta (4)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-37.pdf", "tipo": "pdf", "resumo": "Comprovante de TED (4)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-38.pdf", "tipo": "pdf", "resumo": "Recibo de pagamento de serviço (4)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-39.pdf", "tipo": "pdf", "resumo": "Comprovante de estorno (4)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-40.pdf", "tipo": "pdf", "resumo": "Recibo de mensalidade (4)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-41.pdf", "tipo": "pdf", "resumo": "Comprovante de PIX enviado (5)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-42.pdf", "tipo": "pdf", "resumo": "Recibo de aluguel pago (5)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-43.pdf", "tipo": "pdf", "resumo": "Transferência bancária realizada (5)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-44.pdf", "tipo": "pdf", "resumo": "Comprovante de pagamento de boleto (5)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-45.pdf", "tipo": "pdf", "resumo": "Recibo de compra no cartão (5)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-46.pdf", "tipo": "pdf", "resumo": "Comprovante de depósito em conta (5)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-47.pdf", "tipo": "pdf", "resumo": "Comprovante de TED (5)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-48.pdf", "tipo": "pdf", "resumo": "Recibo de pagamento de serviço (5)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-49.pdf", "tipo": "pdf", "resumo": "Comprovante de estorno (5)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "comprovante-50.pdf", "tipo": "pdf", "resumo": "Recibo de mensalidade (5)"}, "target": "comprovantes", "source": "synthetic"}
+{"state": {"arquivo": "contrato-1.pdf", "tipo": "pdf", "resumo": "Contrato de locação assinado"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-2.pdf", "tipo": "pdf", "resumo": "Termo de serviço aceito"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-3.pdf", "tipo": "pdf", "resumo": "Acordo de prestação de serviços"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-4.pdf", "tipo": "pdf", "resumo": "Contrato de trabalho"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-5.pdf", "tipo": "pdf", "resumo": "Contrato de compra e venda"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-6.pdf", "tipo": "pdf", "resumo": "Termo de confidencialidade"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-7.pdf", "tipo": "pdf", "resumo": "Contrato de financiamento"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-8.pdf", "tipo": "pdf", "resumo": "Termo de adesão ao plano"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-9.pdf", "tipo": "pdf", "resumo": "Contrato de prestação de consultoria"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-10.pdf", "tipo": "pdf", "resumo": "Acordo de parceria comercial"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-11.pdf", "tipo": "pdf", "resumo": "Contrato de locação assinado (2)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-12.pdf", "tipo": "pdf", "resumo": "Termo de serviço aceito (2)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-13.pdf", "tipo": "pdf", "resumo": "Acordo de prestação de serviços (2)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-14.pdf", "tipo": "pdf", "resumo": "Contrato de trabalho (2)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-15.pdf", "tipo": "pdf", "resumo": "Contrato de compra e venda (2)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-16.pdf", "tipo": "pdf", "resumo": "Termo de confidencialidade (2)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-17.pdf", "tipo": "pdf", "resumo": "Contrato de financiamento (2)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-18.pdf", "tipo": "pdf", "resumo": "Termo de adesão ao plano (2)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-19.pdf", "tipo": "pdf", "resumo": "Contrato de prestação de consultoria (2)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-20.pdf", "tipo": "pdf", "resumo": "Acordo de parceria comercial (2)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-21.pdf", "tipo": "pdf", "resumo": "Contrato de locação assinado (3)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-22.pdf", "tipo": "pdf", "resumo": "Termo de serviço aceito (3)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-23.pdf", "tipo": "pdf", "resumo": "Acordo de prestação de serviços (3)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-24.pdf", "tipo": "pdf", "resumo": "Contrato de trabalho (3)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-25.pdf", "tipo": "pdf", "resumo": "Contrato de compra e venda (3)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-26.pdf", "tipo": "pdf", "resumo": "Termo de confidencialidade (3)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-27.pdf", "tipo": "pdf", "resumo": "Contrato de financiamento (3)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-28.pdf", "tipo": "pdf", "resumo": "Termo de adesão ao plano (3)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-29.pdf", "tipo": "pdf", "resumo": "Contrato de prestação de consultoria (3)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-30.pdf", "tipo": "pdf", "resumo": "Acordo de parceria comercial (3)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-31.pdf", "tipo": "pdf", "resumo": "Contrato de locação assinado (4)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-32.pdf", "tipo": "pdf", "resumo": "Termo de serviço aceito (4)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-33.pdf", "tipo": "pdf", "resumo": "Acordo de prestação de serviços (4)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-34.pdf", "tipo": "pdf", "resumo": "Contrato de trabalho (4)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-35.pdf", "tipo": "pdf", "resumo": "Contrato de compra e venda (4)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-36.pdf", "tipo": "pdf", "resumo": "Termo de confidencialidade (4)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-37.pdf", "tipo": "pdf", "resumo": "Contrato de financiamento (4)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-38.pdf", "tipo": "pdf", "resumo": "Termo de adesão ao plano (4)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-39.pdf", "tipo": "pdf", "resumo": "Contrato de prestação de consultoria (4)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-40.pdf", "tipo": "pdf", "resumo": "Acordo de parceria comercial (4)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-41.pdf", "tipo": "pdf", "resumo": "Contrato de locação assinado (5)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-42.pdf", "tipo": "pdf", "resumo": "Termo de serviço aceito (5)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-43.pdf", "tipo": "pdf", "resumo": "Acordo de prestação de serviços (5)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-44.pdf", "tipo": "pdf", "resumo": "Contrato de trabalho (5)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-45.pdf", "tipo": "pdf", "resumo": "Contrato de compra e venda (5)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-46.pdf", "tipo": "pdf", "resumo": "Termo de confidencialidade (5)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-47.pdf", "tipo": "pdf", "resumo": "Contrato de financiamento (5)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-48.pdf", "tipo": "pdf", "resumo": "Termo de adesão ao plano (5)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-49.pdf", "tipo": "pdf", "resumo": "Contrato de prestação de consultoria (5)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "contrato-50.pdf", "tipo": "pdf", "resumo": "Acordo de parceria comercial (5)"}, "target": "contratos", "source": "synthetic"}
+{"state": {"arquivo": "IMG_1.jpg", "tipo": "imagem", "resumo": "Foto de viagem na praia"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_2.jpg", "tipo": "imagem", "resumo": "Foto de família em festa"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_3.jpg", "tipo": "imagem", "resumo": "Registro de pôr do sol"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_4.jpg", "tipo": "imagem", "resumo": "Foto de paisagem na montanha"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_5.jpg", "tipo": "imagem", "resumo": "Foto de aniversário infantil"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_6.jpg", "tipo": "imagem", "resumo": "Foto de passeio no parque"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_7.jpg", "tipo": "imagem", "resumo": "Foto de casamento de amigos"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_8.jpg", "tipo": "imagem", "resumo": "Foto de viagem à cidade histórica"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_9.jpg", "tipo": "imagem", "resumo": "Foto de cachorro no quintal"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_10.jpg", "tipo": "imagem", "resumo": "Foto de trilha na natureza"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_11.jpg", "tipo": "imagem", "resumo": "Foto de viagem na praia (2)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_12.jpg", "tipo": "imagem", "resumo": "Foto de família em festa (2)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_13.jpg", "tipo": "imagem", "resumo": "Registro de pôr do sol (2)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_14.jpg", "tipo": "imagem", "resumo": "Foto de paisagem na montanha (2)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_15.jpg", "tipo": "imagem", "resumo": "Foto de aniversário infantil (2)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_16.jpg", "tipo": "imagem", "resumo": "Foto de passeio no parque (2)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_17.jpg", "tipo": "imagem", "resumo": "Foto de casamento de amigos (2)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_18.jpg", "tipo": "imagem", "resumo": "Foto de viagem à cidade histórica (2)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_19.jpg", "tipo": "imagem", "resumo": "Foto de cachorro no quintal (2)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_20.jpg", "tipo": "imagem", "resumo": "Foto de trilha na natureza (2)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_21.jpg", "tipo": "imagem", "resumo": "Foto de viagem na praia (3)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_22.jpg", "tipo": "imagem", "resumo": "Foto de família em festa (3)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_23.jpg", "tipo": "imagem", "resumo": "Registro de pôr do sol (3)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_24.jpg", "tipo": "imagem", "resumo": "Foto de paisagem na montanha (3)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_25.jpg", "tipo": "imagem", "resumo": "Foto de aniversário infantil (3)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_26.jpg", "tipo": "imagem", "resumo": "Foto de passeio no parque (3)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_27.jpg", "tipo": "imagem", "resumo": "Foto de casamento de amigos (3)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_28.jpg", "tipo": "imagem", "resumo": "Foto de viagem à cidade histórica (3)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_29.jpg", "tipo": "imagem", "resumo": "Foto de cachorro no quintal (3)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_30.jpg", "tipo": "imagem", "resumo": "Foto de trilha na natureza (3)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_31.jpg", "tipo": "imagem", "resumo": "Foto de viagem na praia (4)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_32.jpg", "tipo": "imagem", "resumo": "Foto de família em festa (4)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_33.jpg", "tipo": "imagem", "resumo": "Registro de pôr do sol (4)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_34.jpg", "tipo": "imagem", "resumo": "Foto de paisagem na montanha (4)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_35.jpg", "tipo": "imagem", "resumo": "Foto de aniversário infantil (4)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_36.jpg", "tipo": "imagem", "resumo": "Foto de passeio no parque (4)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_37.jpg", "tipo": "imagem", "resumo": "Foto de casamento de amigos (4)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_38.jpg", "tipo": "imagem", "resumo": "Foto de viagem à cidade histórica (4)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_39.jpg", "tipo": "imagem", "resumo": "Foto de cachorro no quintal (4)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_40.jpg", "tipo": "imagem", "resumo": "Foto de trilha na natureza (4)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_41.jpg", "tipo": "imagem", "resumo": "Foto de viagem na praia (5)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_42.jpg", "tipo": "imagem", "resumo": "Foto de família em festa (5)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_43.jpg", "tipo": "imagem", "resumo": "Registro de pôr do sol (5)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_44.jpg", "tipo": "imagem", "resumo": "Foto de paisagem na montanha (5)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_45.jpg", "tipo": "imagem", "resumo": "Foto de aniversário infantil (5)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_46.jpg", "tipo": "imagem", "resumo": "Foto de passeio no parque (5)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_47.jpg", "tipo": "imagem", "resumo": "Foto de casamento de amigos (5)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_48.jpg", "tipo": "imagem", "resumo": "Foto de viagem à cidade histórica (5)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_49.jpg", "tipo": "imagem", "resumo": "Foto de cachorro no quintal (5)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "IMG_50.jpg", "tipo": "imagem", "resumo": "Foto de trilha na natureza (5)"}, "target": "fotos/memorias", "source": "synthetic"}
+{"state": {"arquivo": "meme-1.png", "tipo": "imagem", "resumo": "Meme de gato com legenda engraçada"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-2.png", "tipo": "imagem", "resumo": "Reaction image de risada"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-3.png", "tipo": "imagem", "resumo": "Figurinha de WhatsApp de anime"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-4.png", "tipo": "imagem", "resumo": "Meme de segunda-feira"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-5.png", "tipo": "imagem", "resumo": "Reaction image de choque"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-6.png", "tipo": "imagem", "resumo": "Meme de programador"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-7.png", "tipo": "imagem", "resumo": "Figurinha animada de meme"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-8.png", "tipo": "imagem", "resumo": "Meme de política com texto"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-9.png", "tipo": "imagem", "resumo": "Reaction image de deboche"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-10.png", "tipo": "imagem", "resumo": "Meme antigo de fórum"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-11.png", "tipo": "imagem", "resumo": "Meme de gato com legenda engraçada (2)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-12.png", "tipo": "imagem", "resumo": "Reaction image de risada (2)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-13.png", "tipo": "imagem", "resumo": "Figurinha de WhatsApp de anime (2)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-14.png", "tipo": "imagem", "resumo": "Meme de segunda-feira (2)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-15.png", "tipo": "imagem", "resumo": "Reaction image de choque (2)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-16.png", "tipo": "imagem", "resumo": "Meme de programador (2)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-17.png", "tipo": "imagem", "resumo": "Figurinha animada de meme (2)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-18.png", "tipo": "imagem", "resumo": "Meme de política com texto (2)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-19.png", "tipo": "imagem", "resumo": "Reaction image de deboche (2)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-20.png", "tipo": "imagem", "resumo": "Meme antigo de fórum (2)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-21.png", "tipo": "imagem", "resumo": "Meme de gato com legenda engraçada (3)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-22.png", "tipo": "imagem", "resumo": "Reaction image de risada (3)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-23.png", "tipo": "imagem", "resumo": "Figurinha de WhatsApp de anime (3)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-24.png", "tipo": "imagem", "resumo": "Meme de segunda-feira (3)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-25.png", "tipo": "imagem", "resumo": "Reaction image de choque (3)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-26.png", "tipo": "imagem", "resumo": "Meme de programador (3)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-27.png", "tipo": "imagem", "resumo": "Figurinha animada de meme (3)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-28.png", "tipo": "imagem", "resumo": "Meme de política com texto (3)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-29.png", "tipo": "imagem", "resumo": "Reaction image de deboche (3)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-30.png", "tipo": "imagem", "resumo": "Meme antigo de fórum (3)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-31.png", "tipo": "imagem", "resumo": "Meme de gato com legenda engraçada (4)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-32.png", "tipo": "imagem", "resumo": "Reaction image de risada (4)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-33.png", "tipo": "imagem", "resumo": "Figurinha de WhatsApp de anime (4)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-34.png", "tipo": "imagem", "resumo": "Meme de segunda-feira (4)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-35.png", "tipo": "imagem", "resumo": "Reaction image de choque (4)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-36.png", "tipo": "imagem", "resumo": "Meme de programador (4)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-37.png", "tipo": "imagem", "resumo": "Figurinha animada de meme (4)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-38.png", "tipo": "imagem", "resumo": "Meme de política com texto (4)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-39.png", "tipo": "imagem", "resumo": "Reaction image de deboche (4)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-40.png", "tipo": "imagem", "resumo": "Meme antigo de fórum (4)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-41.png", "tipo": "imagem", "resumo": "Meme de gato com legenda engraçada (5)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-42.png", "tipo": "imagem", "resumo": "Reaction image de risada (5)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-43.png", "tipo": "imagem", "resumo": "Figurinha de WhatsApp de anime (5)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-44.png", "tipo": "imagem", "resumo": "Meme de segunda-feira (5)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-45.png", "tipo": "imagem", "resumo": "Reaction image de choque (5)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-46.png", "tipo": "imagem", "resumo": "Meme de programador (5)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-47.png", "tipo": "imagem", "resumo": "Figurinha animada de meme (5)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-48.png", "tipo": "imagem", "resumo": "Meme de política com texto (5)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-49.png", "tipo": "imagem", "resumo": "Reaction image de deboche (5)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "meme-50.png", "tipo": "imagem", "resumo": "Meme antigo de fórum (5)"}, "target": "fotos/memes", "source": "synthetic"}
+{"state": {"arquivo": "planilha-1.xlsx", "tipo": "planilha", "resumo": "Planilha de orçamento mensal"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-2.xlsx", "tipo": "planilha", "resumo": "Controle de gastos pessoais"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-3.xlsx", "tipo": "planilha", "resumo": "Tabela de despesas do projeto"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-4.xlsx", "tipo": "planilha", "resumo": "Planilha de investimentos"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-5.xlsx", "tipo": "planilha", "resumo": "Controle de estoque da loja"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-6.xlsx", "tipo": "planilha", "resumo": "Planilha de horas trabalhadas"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-7.xlsx", "tipo": "planilha", "resumo": "Orçamento de reforma"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-8.xlsx", "tipo": "planilha", "resumo": "Planilha de vendas"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-9.xlsx", "tipo": "planilha", "resumo": "Controle de contas a pagar"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-10.xlsx", "tipo": "planilha", "resumo": "Planilha de metas financeiras"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-11.xlsx", "tipo": "planilha", "resumo": "Planilha de orçamento mensal (2)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-12.xlsx", "tipo": "planilha", "resumo": "Controle de gastos pessoais (2)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-13.xlsx", "tipo": "planilha", "resumo": "Tabela de despesas do projeto (2)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-14.xlsx", "tipo": "planilha", "resumo": "Planilha de investimentos (2)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-15.xlsx", "tipo": "planilha", "resumo": "Controle de estoque da loja (2)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-16.xlsx", "tipo": "planilha", "resumo": "Planilha de horas trabalhadas (2)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-17.xlsx", "tipo": "planilha", "resumo": "Orçamento de reforma (2)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-18.xlsx", "tipo": "planilha", "resumo": "Planilha de vendas (2)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-19.xlsx", "tipo": "planilha", "resumo": "Controle de contas a pagar (2)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-20.xlsx", "tipo": "planilha", "resumo": "Planilha de metas financeiras (2)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-21.xlsx", "tipo": "planilha", "resumo": "Planilha de orçamento mensal (3)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-22.xlsx", "tipo": "planilha", "resumo": "Controle de gastos pessoais (3)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-23.xlsx", "tipo": "planilha", "resumo": "Tabela de despesas do projeto (3)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-24.xlsx", "tipo": "planilha", "resumo": "Planilha de investimentos (3)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-25.xlsx", "tipo": "planilha", "resumo": "Controle de estoque da loja (3)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-26.xlsx", "tipo": "planilha", "resumo": "Planilha de horas trabalhadas (3)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-27.xlsx", "tipo": "planilha", "resumo": "Orçamento de reforma (3)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-28.xlsx", "tipo": "planilha", "resumo": "Planilha de vendas (3)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-29.xlsx", "tipo": "planilha", "resumo": "Controle de contas a pagar (3)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-30.xlsx", "tipo": "planilha", "resumo": "Planilha de metas financeiras (3)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-31.xlsx", "tipo": "planilha", "resumo": "Planilha de orçamento mensal (4)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-32.xlsx", "tipo": "planilha", "resumo": "Controle de gastos pessoais (4)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-33.xlsx", "tipo": "planilha", "resumo": "Tabela de despesas do projeto (4)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-34.xlsx", "tipo": "planilha", "resumo": "Planilha de investimentos (4)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-35.xlsx", "tipo": "planilha", "resumo": "Controle de estoque da loja (4)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-36.xlsx", "tipo": "planilha", "resumo": "Planilha de horas trabalhadas (4)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-37.xlsx", "tipo": "planilha", "resumo": "Orçamento de reforma (4)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-38.xlsx", "tipo": "planilha", "resumo": "Planilha de vendas (4)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-39.xlsx", "tipo": "planilha", "resumo": "Controle de contas a pagar (4)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-40.xlsx", "tipo": "planilha", "resumo": "Planilha de metas financeiras (4)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-41.xlsx", "tipo": "planilha", "resumo": "Planilha de orçamento mensal (5)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-42.xlsx", "tipo": "planilha", "resumo": "Controle de gastos pessoais (5)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-43.xlsx", "tipo": "planilha", "resumo": "Tabela de despesas do projeto (5)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-44.xlsx", "tipo": "planilha", "resumo": "Planilha de investimentos (5)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-45.xlsx", "tipo": "planilha", "resumo": "Controle de estoque da loja (5)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-46.xlsx", "tipo": "planilha", "resumo": "Planilha de horas trabalhadas (5)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-47.xlsx", "tipo": "planilha", "resumo": "Orçamento de reforma (5)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-48.xlsx", "tipo": "planilha", "resumo": "Planilha de vendas (5)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-49.xlsx", "tipo": "planilha", "resumo": "Controle de contas a pagar (5)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "planilha-50.xlsx", "tipo": "planilha", "resumo": "Planilha de metas financeiras (5)"}, "target": "planilhas", "source": "synthetic"}
+{"state": {"arquivo": "notas-1.md", "tipo": "texto", "resumo": "Anotações da reunião de equipe"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-2.md", "tipo": "texto", "resumo": "Lista de compras do mercado"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-3.md", "tipo": "texto", "resumo": "Ideias para o próximo projeto"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-4.md", "tipo": "texto", "resumo": "Lembretes da semana"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-5.md", "tipo": "texto", "resumo": "Rascunho de artigo"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-6.md", "tipo": "texto", "resumo": "Lista de tarefas domésticas"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-7.md", "tipo": "texto", "resumo": "Notas de aula"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-8.md", "tipo": "texto", "resumo": "Planejamento de viagem"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-9.md", "tipo": "texto", "resumo": "Ideias de presente"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-10.md", "tipo": "texto", "resumo": "Lembretes de consultas médicas"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-11.md", "tipo": "texto", "resumo": "Anotações da reunião de equipe (2)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-12.md", "tipo": "texto", "resumo": "Lista de compras do mercado (2)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-13.md", "tipo": "texto", "resumo": "Ideias para o próximo projeto (2)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-14.md", "tipo": "texto", "resumo": "Lembretes da semana (2)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-15.md", "tipo": "texto", "resumo": "Rascunho de artigo (2)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-16.md", "tipo": "texto", "resumo": "Lista de tarefas domésticas (2)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-17.md", "tipo": "texto", "resumo": "Notas de aula (2)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-18.md", "tipo": "texto", "resumo": "Planejamento de viagem (2)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-19.md", "tipo": "texto", "resumo": "Ideias de presente (2)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-20.md", "tipo": "texto", "resumo": "Lembretes de consultas médicas (2)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-21.md", "tipo": "texto", "resumo": "Anotações da reunião de equipe (3)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-22.md", "tipo": "texto", "resumo": "Lista de compras do mercado (3)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-23.md", "tipo": "texto", "resumo": "Ideias para o próximo projeto (3)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-24.md", "tipo": "texto", "resumo": "Lembretes da semana (3)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-25.md", "tipo": "texto", "resumo": "Rascunho de artigo (3)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-26.md", "tipo": "texto", "resumo": "Lista de tarefas domésticas (3)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-27.md", "tipo": "texto", "resumo": "Notas de aula (3)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-28.md", "tipo": "texto", "resumo": "Planejamento de viagem (3)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-29.md", "tipo": "texto", "resumo": "Ideias de presente (3)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-30.md", "tipo": "texto", "resumo": "Lembretes de consultas médicas (3)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-31.md", "tipo": "texto", "resumo": "Anotações da reunião de equipe (4)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-32.md", "tipo": "texto", "resumo": "Lista de compras do mercado (4)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-33.md", "tipo": "texto", "resumo": "Ideias para o próximo projeto (4)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-34.md", "tipo": "texto", "resumo": "Lembretes da semana (4)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-35.md", "tipo": "texto", "resumo": "Rascunho de artigo (4)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-36.md", "tipo": "texto", "resumo": "Lista de tarefas domésticas (4)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-37.md", "tipo": "texto", "resumo": "Notas de aula (4)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-38.md", "tipo": "texto", "resumo": "Planejamento de viagem (4)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-39.md", "tipo": "texto", "resumo": "Ideias de presente (4)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-40.md", "tipo": "texto", "resumo": "Lembretes de consultas médicas (4)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-41.md", "tipo": "texto", "resumo": "Anotações da reunião de equipe (5)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-42.md", "tipo": "texto", "resumo": "Lista de compras do mercado (5)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-43.md", "tipo": "texto", "resumo": "Ideias para o próximo projeto (5)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-44.md", "tipo": "texto", "resumo": "Lembretes da semana (5)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-45.md", "tipo": "texto", "resumo": "Rascunho de artigo (5)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-46.md", "tipo": "texto", "resumo": "Lista de tarefas domésticas (5)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-47.md", "tipo": "texto", "resumo": "Notas de aula (5)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-48.md", "tipo": "texto", "resumo": "Planejamento de viagem (5)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-49.md", "tipo": "texto", "resumo": "Ideias de presente (5)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "notas-50.md", "tipo": "texto", "resumo": "Lembretes de consultas médicas (5)"}, "target": "notas", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-1.pdf", "tipo": "desconhecido", "resumo": "Manual de montagem de móvel"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-2.pdf", "tipo": "desconhecido", "resumo": "Apostila de curso online"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-3.pdf", "tipo": "desconhecido", "resumo": "Recado de voz transcrito"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-4.pdf", "tipo": "desconhecido", "resumo": "Arquivo sem categoria clara"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-5.pdf", "tipo": "desconhecido", "resumo": "Guia de instalação do aparelho"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-6.pdf", "tipo": "desconhecido", "resumo": "Material de treinamento"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-7.pdf", "tipo": "desconhecido", "resumo": "Receita culinária impressa"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-8.pdf", "tipo": "desconhecido", "resumo": "Catálogo de produtos"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-9.pdf", "tipo": "desconhecido", "resumo": "Folder de evento"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-10.pdf", "tipo": "desconhecido", "resumo": "Material de referência técnica"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-11.pdf", "tipo": "desconhecido", "resumo": "Manual de montagem de móvel (2)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-12.pdf", "tipo": "desconhecido", "resumo": "Apostila de curso online (2)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-13.pdf", "tipo": "desconhecido", "resumo": "Recado de voz transcrito (2)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-14.pdf", "tipo": "desconhecido", "resumo": "Arquivo sem categoria clara (2)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-15.pdf", "tipo": "desconhecido", "resumo": "Guia de instalação do aparelho (2)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-16.pdf", "tipo": "desconhecido", "resumo": "Material de treinamento (2)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-17.pdf", "tipo": "desconhecido", "resumo": "Receita culinária impressa (2)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-18.pdf", "tipo": "desconhecido", "resumo": "Catálogo de produtos (2)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-19.pdf", "tipo": "desconhecido", "resumo": "Folder de evento (2)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-20.pdf", "tipo": "desconhecido", "resumo": "Material de referência técnica (2)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-21.pdf", "tipo": "desconhecido", "resumo": "Manual de montagem de móvel (3)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-22.pdf", "tipo": "desconhecido", "resumo": "Apostila de curso online (3)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-23.pdf", "tipo": "desconhecido", "resumo": "Recado de voz transcrito (3)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-24.pdf", "tipo": "desconhecido", "resumo": "Arquivo sem categoria clara (3)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-25.pdf", "tipo": "desconhecido", "resumo": "Guia de instalação do aparelho (3)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-26.pdf", "tipo": "desconhecido", "resumo": "Material de treinamento (3)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-27.pdf", "tipo": "desconhecido", "resumo": "Receita culinária impressa (3)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-28.pdf", "tipo": "desconhecido", "resumo": "Catálogo de produtos (3)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-29.pdf", "tipo": "desconhecido", "resumo": "Folder de evento (3)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-30.pdf", "tipo": "desconhecido", "resumo": "Material de referência técnica (3)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-31.pdf", "tipo": "desconhecido", "resumo": "Manual de montagem de móvel (4)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-32.pdf", "tipo": "desconhecido", "resumo": "Apostila de curso online (4)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-33.pdf", "tipo": "desconhecido", "resumo": "Recado de voz transcrito (4)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-34.pdf", "tipo": "desconhecido", "resumo": "Arquivo sem categoria clara (4)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-35.pdf", "tipo": "desconhecido", "resumo": "Guia de instalação do aparelho (4)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-36.pdf", "tipo": "desconhecido", "resumo": "Material de treinamento (4)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-37.pdf", "tipo": "desconhecido", "resumo": "Receita culinária impressa (4)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-38.pdf", "tipo": "desconhecido", "resumo": "Catálogo de produtos (4)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-39.pdf", "tipo": "desconhecido", "resumo": "Folder de evento (4)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-40.pdf", "tipo": "desconhecido", "resumo": "Material de referência técnica (4)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-41.pdf", "tipo": "desconhecido", "resumo": "Manual de montagem de móvel (5)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-42.pdf", "tipo": "desconhecido", "resumo": "Apostila de curso online (5)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-43.pdf", "tipo": "desconhecido", "resumo": "Recado de voz transcrito (5)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-44.pdf", "tipo": "desconhecido", "resumo": "Arquivo sem categoria clara (5)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-45.pdf", "tipo": "desconhecido", "resumo": "Guia de instalação do aparelho (5)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-46.pdf", "tipo": "desconhecido", "resumo": "Material de treinamento (5)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-47.pdf", "tipo": "desconhecido", "resumo": "Receita culinária impressa (5)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-48.pdf", "tipo": "desconhecido", "resumo": "Catálogo de produtos (5)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-49.pdf", "tipo": "desconhecido", "resumo": "Folder de evento (5)"}, "target": "outros", "source": "synthetic"}
+{"state": {"arquivo": "arquivo-50.pdf", "tipo": "desconhecido", "resumo": "Material de referência técnica (5)"}, "target": "outros", "source": "synthetic"}

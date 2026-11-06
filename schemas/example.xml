@@ -1,0 +1,12 @@
+<targets>
+  <documentos prompt="Documentos importantes encontrados, como contas, comprovantes e afins">
+    <contas prompt="Contas de água, luz, internet" />
+    <comprovantes prompt="Comprovantes bancários" />
+  </documentos>
+  <fotos prompt="Fotos e imagens em geral">
+    <memorias prompt="Fotos pessoais e lembranças: família, viagens, festas, paisagens e animais" />
+    <memes prompt="Memes, reaction images, figurinhas e imagens engraçadas da internet" />
+  </fotos>
+  <planilhas prompt="Planilhas e dados tabulares" />
+  <outros prompt="Arquivos que não se encaixam nas outras pastas" />
+</targets>

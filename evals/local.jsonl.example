@@ -1,0 +1,3 @@
+{"state": {"arquivo": "minha-conta.pdf", "tipo": "desconhecido", "resumo": "Conta de energia elétrica de outubro"}, "target": "contas", "source": "local"}
+{"state": {"arquivo": "IMG_1234.jpg", "tipo": "imagem", "resumo": "Foto de uma praia ao pôr do sol"}, "target": "fotos", "source": "local"}
+{"state": {"arquivo": "notas-reuniao.md", "tipo": "texto", "resumo": "Notas da reunião de planejamento do projeto"}, "target": "notas", "source": "local"}

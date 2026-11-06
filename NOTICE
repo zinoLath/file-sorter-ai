@@ -1,0 +1,26 @@
+# NOTICE
+
+Este projeto é licenciado sob a Apache License 2.0 (veja LICENSE).
+
+Componentes de terceiros consumidos em runtime, não redistribuídos neste
+repositório:
+
+## Julia-1 (modelo de decisão)
+- Fonte: https://huggingface.co/SupersonicLabs/Julia-1 (Supersonic Labs)
+- Licença: Apache-2.0 (model card do snapshot)
+- Baixado em runtime via `fsort fetch-model`; os pesos não fazem parte
+  deste repositório. O classificador consome o modelo pré-treinado como
+  está; não há treinamento próprio neste projeto.
+
+## Florence-2-base (extrator de visão)
+- Fonte: https://huggingface.co/microsoft/Florence-2-base (Microsoft)
+- Licença: MIT
+- Baixado em runtime via `fsort fetch-vision`.
+
+## Dependências Python (via pip)
+- PySide6 — LGPL-3.0-only (bindings carregados dinamicamente)
+- pathspec — MPL-2.0
+- huggingface_hub, torch, transformers, safetensors — Apache-2.0
+- numpy — BSD-3
+- openpyxl — MIT
+- xlrd — BSD

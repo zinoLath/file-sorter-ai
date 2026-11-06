@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "file-sorter-ai"
+version = "0.1.0"
+description = "Organizador de arquivos com classificação local via LLM (Julia-1)"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+  "PySide6>=6.6",
+  "pathspec>=0.12.1",
+  "openpyxl>=3.1",
+  "xlrd>=2.0.1",
+  "huggingface_hub>=0.20",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "Pillow>=10"]
+
+[project.gui-scripts]
+file-sorter = "gui.app:main"
+
+[project.scripts]
+fsort = "core.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+markers = [
+  "eval: avaliação do modelo real, fora do CI padrão",
+]

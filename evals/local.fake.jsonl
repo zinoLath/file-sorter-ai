@@ -1,0 +1,50 @@
+{"state": {"arquivo": "minha-conta.pdf", "tipo": "documento", "resumo": "conta de energia de outubro, veio por e-mail"}, "target": "contas", "source": "local-fake"}
+{"state": {"arquivo": "fatura_setembro.pdf", "tipo": "documento", "resumo": "fatura do cartão, valor alto, revisar"}, "target": "contas", "source": "local-fake"}
+{"state": {"arquivo": "boleto-internet.pdf", "tipo": "documento", "resumo": "boleto da internet fibra 500mb"}, "target": "contas", "source": "local-fake"}
+{"state": {"arquivo": "conta_agua.txt", "tipo": "texto", "resumo": "conta de água e esgoto do mês passado"}, "target": "contas", "source": "local-fake"}
+{"state": {"arquivo": "luz.pdf", "tipo": "documento", "resumo": "conta de luz, vencimento dia 10"}, "target": "contas", "source": "local-fake"}
+{"state": {"arquivo": "telefone-fatura.pdf", "tipo": "documento", "resumo": "fatura do celular pós-pago"}, "target": "contas", "source": "local-fake"}
+{"state": {"arquivo": "pix-joao.pdf", "tipo": "documento", "resumo": "comprovante de pix para joao"}, "target": "comprovantes", "source": "local-fake"}
+{"state": {"arquivo": "recibo_aluguel.pdf", "tipo": "documento", "resumo": "recibo do aluguel de setembro"}, "target": "comprovantes", "source": "local-fake"}
+{"state": {"arquivo": "pagamento-boleto.png", "tipo": "imagem", "resumo": "print do comprovante de pagamento"}, "target": "comprovantes", "source": "local-fake"}
+{"state": {"arquivo": "transferencia.pdf", "tipo": "documento", "resumo": "transferência feita para minha irmã"}, "target": "comprovantes", "source": "local-fake"}
+{"state": {"arquivo": "deposito.pdf", "tipo": "documento", "resumo": "deposito em dinheiro no banco"}, "target": "comprovantes", "source": "local-fake"}
+{"state": {"arquivo": "estorno-cartao.pdf", "tipo": "documento", "resumo": "comprovante de estorno do cartão"}, "target": "comprovantes", "source": "local-fake"}
+{"state": {"arquivo": "contrato_aluguel.pdf", "tipo": "documento", "resumo": "contrato de aluguel assinado 2026"}, "target": "contratos", "source": "local-fake"}
+{"state": {"arquivo": "termo-servico.pdf", "tipo": "documento", "resumo": "termo de aceite do serviço de nuvem"}, "target": "contratos", "source": "local-fake"}
+{"state": {"arquivo": "acordo.pdf", "tipo": "documento", "resumo": "acordo com o fornecedor, tem assinatura"}, "target": "contratos", "source": "local-fake"}
+{"state": {"arquivo": "contrato_trabalho.pdf", "tipo": "documento", "resumo": "contrato de trabalho novo emprego"}, "target": "contratos", "source": "local-fake"}
+{"state": {"arquivo": "nda.pdf", "tipo": "documento", "resumo": "termo de confidencialidade da consultoria"}, "target": "contratos", "source": "local-fake"}
+{"state": {"arquivo": "financiamento.pdf", "tipo": "documento", "resumo": "contrato de financiamento do carro"}, "target": "contratos", "source": "local-fake"}
+{"state": {"arquivo": "print_erro.png", "tipo": "imagem", "resumo": "print de tela com erro do sistema"}, "target": "outros", "source": "local-fake"}
+{"state": {"arquivo": "captura-conversa.png", "tipo": "imagem", "resumo": "captura de tela da conversa no chat"}, "target": "outros", "source": "local-fake"}
+{"state": {"arquivo": "screenshot-config.png", "tipo": "imagem", "resumo": "print da tela de configurações"}, "target": "outros", "source": "local-fake"}
+{"state": {"arquivo": "tela-planilha.png", "tipo": "imagem", "resumo": "captura da planilha aberta no notebook"}, "target": "outros", "source": "local-fake"}
+{"state": {"arquivo": "print-email.png", "tipo": "imagem", "resumo": "print do e-mail do cliente"}, "target": "outros", "source": "local-fake"}
+{"state": {"arquivo": "mapa.png", "tipo": "imagem", "resumo": "captura de tela do mapa da viagem"}, "target": "outros", "source": "local-fake"}
+{"state": {"arquivo": "IMG_1234.jpg", "tipo": "imagem", "resumo": "foto da praia no fim de semana"}, "target": "fotos/memorias", "source": "local-fake"}
+{"state": {"arquivo": "IMG_5678.jpg", "tipo": "imagem", "resumo": "foto da família no aniversário"}, "target": "fotos/memorias", "source": "local-fake"}
+{"state": {"arquivo": "por-do-sol.jpeg", "tipo": "imagem", "resumo": "registro do pôr do sol no mirante"}, "target": "fotos/memorias", "source": "local-fake"}
+{"state": {"arquivo": "montanha.jpg", "tipo": "imagem", "resumo": "paisagem da montanha na viagem"}, "target": "fotos/memorias", "source": "local-fake"}
+{"state": {"arquivo": "cachorro.jpg", "tipo": "imagem", "resumo": "foto do cachorro brincando"}, "target": "fotos/memorias", "source": "local-fake"}
+{"state": {"arquivo": "casamento.jpg", "tipo": "imagem", "resumo": "foto do casamento dos amigos"}, "target": "fotos/memorias", "source": "local-fake"}
+{"state": {"arquivo": "gastos.xlsx", "tipo": "planilha", "resumo": "planilha de gastos de outubro"}, "target": "planilhas", "source": "local-fake"}
+{"state": {"arquivo": "orcamento.csv", "tipo": "planilha", "resumo": "orçamento da reforma da cozinha"}, "target": "planilhas", "source": "local-fake"}
+{"state": {"arquivo": "horas.xlsx", "tipo": "planilha", "resumo": "controle de horas do projeto"}, "target": "planilhas", "source": "local-fake"}
+{"state": {"arquivo": "investimentos.xlsx", "tipo": "planilha", "resumo": "planilha de investimentos e rendimentos"}, "target": "planilhas", "source": "local-fake"}
+{"state": {"arquivo": "estoque.xlsx", "tipo": "planilha", "resumo": "controle de estoque da loja"}, "target": "planilhas", "source": "local-fake"}
+{"state": {"arquivo": "vendas.csv", "tipo": "planilha", "resumo": "tabela de vendas do trimestre"}, "target": "planilhas", "source": "local-fake"}
+{"state": {"arquivo": "reuniao.md", "tipo": "texto", "resumo": "notas da reunião de planejamento"}, "target": "notas", "source": "local-fake"}
+{"state": {"arquivo": "compras.txt", "tipo": "texto", "resumo": "lista de compras do supermercado"}, "target": "notas", "source": "local-fake"}
+{"state": {"arquivo": "ideias.txt", "tipo": "texto", "resumo": "ideias para o projeto novo"}, "target": "notas", "source": "local-fake"}
+{"state": {"arquivo": "lembretes.md", "tipo": "texto", "resumo": "lembretes da semana, pagar contas"}, "target": "notas", "source": "local-fake"}
+{"state": {"arquivo": "aula.md", "tipo": "texto", "resumo": "anotações da aula de estatística"}, "target": "notas", "source": "local-fake"}
+{"state": {"arquivo": "viagem.md", "tipo": "texto", "resumo": "roteiro e planejamento da viagem"}, "target": "notas", "source": "local-fake"}
+{"state": {"arquivo": "manual-movel.pdf", "tipo": "documento", "resumo": "manual de montagem do móvel"}, "target": "outros", "source": "local-fake"}
+{"state": {"arquivo": "apostila.pdf", "tipo": "documento", "resumo": "apostila do curso online"}, "target": "outros", "source": "local-fake"}
+{"state": {"arquivo": "guia-instalacao.pdf", "tipo": "documento", "resumo": "guia de instalação do aparelho"}, "target": "outros", "source": "local-fake"}
+{"state": {"arquivo": "receita.pdf", "tipo": "documento", "resumo": "receita de bolo impressa"}, "target": "outros", "source": "local-fake"}
+{"state": {"arquivo": "catalogo.pdf", "tipo": "documento", "resumo": "catálogo de produtos da loja"}, "target": "outros", "source": "local-fake"}
+{"state": {"arquivo": "transcricao.txt", "tipo": "texto", "resumo": "transcrição de um recado de voz"}, "target": "outros", "source": "local-fake"}
+{"state": {"arquivo": "folder.pdf", "tipo": "documento", "resumo": "folder de divulgação do evento"}, "target": "outros", "source": "local-fake"}
+{"state": {"arquivo": "treinamento.pdf", "tipo": "documento", "resumo": "material de treinamento da equipe"}, "target": "outros", "source": "local-fake"}

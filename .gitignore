@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.pytest_cache/
+.cache/
+*.huggingface/
+models/
+
+# eval local (dados do usuário)
+evals/local.jsonl
+
+# eval de imagens (baixado localmente)
+evals/images/
+evals/images.local.jsonl
+evals/images.states.local.jsonl
+evals/images.states.gold.local.jsonl
