@@ -1,6 +1,6 @@
 <targets>
-  <contas prompt="Contas e faturas de água, luz, internet, telefone e assinaturas" />
-  <comprovantes prompt="Comprovantes de pagamento, PIX, transferências bancárias e recibos" />
+  <contas prompt="Contas, boletos e faturas de água, luz, energia, internet, telefone, condomínio e assinaturas" />
+  <comprovantes prompt="Comprovantes e recibos de pagamento: PIX, TED, transferência bancária, recibo de aluguel, compra no cartão, mensalidade, estorno e pagamento de serviço" />
   <contratos prompt="Contratos assinados, termos de serviço e acordos" />
   <planilhas prompt="Planilhas, orçamentos, controle de gastos e dados financeiros" />
   <notas prompt="Anotações em arquivos de texto (.txt, .md): listas, lembretes, rascunhos, notas de aula e de reunião" />

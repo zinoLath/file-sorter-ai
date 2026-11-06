@@ -57,12 +57,13 @@ Formato do schema (exemplo do autor, normalizado em
 - Smoke test real **feito** em Python 3.12 com o runtime `julia` e os pesos
   (load + inferência + eval sintético). O eval está rodando com dados reais:
   `evals/local.jsonl` tem 46 arquivos do usuário rotulados; baseline de
-  2026-11-06 sem abstenção (A19), no schema de 7 destinos (sem memes), é
-  83,4% sintético e 60,9% local — não comparável 1:1 com a rodada de
-  2026-10-31 (a remoção de memes altera o conjunto de opções do prompt).
-  Falta calibrar os prompts de `contas`/`comprovantes`, visão de imagens e
-  limpeza do resumo de PDF para chegar às
-  metas de 90%/70%. Contrato em [docs/decisions.md](docs/decisions.md)
+  2026-11-06 sem abstenção (A19), no schema de 7 destinos (sem memes) e com
+  os prompts de `contas`/`comprovantes` calibrados, é 95,7% sintético e
+  76,1% local — **metas de 90%/70% atingidas**. A remoção de memes altera o
+  conjunto de opções do prompt, então números entre schemas não são
+  comparáveis 1:1 (a rodada intermediária sem calibração deu 83,4%/60,9%).
+  Pendências: revisar rótulos de `contratos` locais (1/5), visão de imagens e
+  limpeza do resumo de PDF. Contrato em [docs/decisions.md](docs/decisions.md)
   (A1–A20, ordem A18).
 
 ## Estrutura

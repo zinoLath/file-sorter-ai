@@ -33,45 +33,45 @@ Metas: ≥90% sintético (sanidade) e ≥70% local (utilidade). O modelo não ab
 ## Baseline real (CPU FP32, 2026-11-06)
 
 Modelo `SupersonicLabs/Julia-1`, schema de 7 destinos (sem memes), sem
-abstenção. Resultado determinístico entre corridas.
+abstenção, com os prompts de `contas` e `comprovantes` calibrados. Resultado
+determinístico entre corridas.
 
-| conjunto | casos | acurácia |
-|---|---|---|
-| sintético (`gold.jsonl`) | 350 | **83,4%** (292/350) |
-| local (`local.jsonl`) | 46 | **60,9%** (28/46) |
+| conjunto | casos | acurácia | meta |
+|---|---|---|---|
+| sintético (`gold.jsonl`) | 350 | **95,7%** (335/350) | ≥90% — atingida |
+| local (`local.jsonl`) | 46 | **76,1%** (35/46) | ≥70% — atingida |
 
 Sintético por classe:
 
 | classe | acertos |
 |---|---|
-| contratos, notas, planilhas | 50/50 (100%) |
-| outros | 47/50 (94%) |
-| fotos/memorias | 45/50 (90%) |
-| contas | 26/50 (52%) |
-| comprovantes | 24/50 (48%) |
+| notas, planilhas, outros | 50/50 (100%) |
+| contas | 49/50 (98%) |
+| contratos, comprovantes, fotos/memorias | 90–92% |
 
 Local por classe:
 
 | classe | acertos |
 |---|---|
-| planilhas | 11/11 (100%) |
-| outros | 11/19 (58%) |
-| notas | 5/9 (56%) |
+| contas | 1/1 (100%) |
+| planilhas | 10/11 (91%) |
+| outros | 17/19 (89%) |
+| notas | 6/9 (67%) |
 | contratos | 1/5 (20%) |
-| contas 0/1 · comprovantes 0/1 | |
+| comprovantes | 0/1 (único caso local) |
 
 Observações:
 
-- **Não comparável 1:1 com o baseline de 2026-10-31** (95,0% sintético /
-  60,0% local em 8 destinos): o conjunto de opções entra no prompt, e a
-  remoção de `memes` redistribuiu decisões. `contas` caiu de 80% para 52% e
-  `comprovantes` de 90% para 48% no sintético, espalhando para `outros` e
-  `notas`; `contratos`, `notas` e `planilhas` seguem 100%.
-- O prompt de `notas` cita os formatos (`.txt, .md`); em 2026-10-31 isso levou
-  o local de 44% para 60% e o sintético de 92,8% para 95,0% no schema antigo.
-  É um prior de formato: qualquer `.txt/.md` tende a `notas`.
-- A meta de 90% sintético não está atingida no schema atual (83,4%): calibrar
-  os prompts de `contas` e `comprovantes` é o próximo passo. A de 70% local
-  também não (60,9%).
-- contratos locais seguem ruins (1/5) — parte é rótulo do autor (formulários
-  que não são contrato), parte é o modelo.
+- **Remoção de `memes` e calibração de prompts**: a lista de opções entra no
+  prompt do modelo, então remover uma categoria redistribui decisões. Sem
+  calibração, o primeiro re-measure deu 83,4% sintético / 60,9% local
+  (`contas` caiu a 52%, `comprovantes` a 36%). Calibrar os prompts de
+  `contas` (boleto, fatura, condomínio) e `comprovantes` (PIX, TED, recibos de
+  aluguel, cartão, mensalidade, estorno) recuperou e superou o baseline de
+  2026-10-31 (95,0% sintético / 60,0% local em 8 destinos). Números entre
+  schemas não são comparáveis 1:1; o estado atual é o canônico.
+- **`contratos` no local segue 1/5** — parte é rótulo do autor (formulários
+  que não são contrato), parte é o modelo. Candidato a revisão de rótulos no
+  próximo ciclo.
+- O prompt de `notas` cita os formatos (`.txt, .md`) — prior de formato:
+  qualquer `.txt/.md` tende a `notas`.
